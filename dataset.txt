@@ -1,0 +1,214 @@
+"Diabetes Mellitus affects the body's ability to regulate blood sugar levels due to insulin issues.",
+    "Type 1 Diabetes is an autoimmune condition where the immune system attacks the pancreas, reducing insulin production.",
+    "Type 2 Diabetes typically develops when the body becomes resistant to insulin, requiring lifestyle changes to manage it.",
+    "Symptoms of Diabetes include frequent urination, excessive thirst, blurry vision, and unexplained weight loss.",
+    "Gestational Diabetes occurs during pregnancy and can increase the risk of developing Type 2 Diabetes later in life.",
+    "Hypertension causes persistently high blood pressure, increasing the risk of heart disease.",
+    "Asthma leads to airway inflammation and breathing difficulties, often triggered by allergens.",
+    "Alzheimer's Disease progressively impairs memory and cognitive functions in older adults.",
+    "Influenza spreads as a contagious virus that affects the respiratory system.",
+    "HIV/AIDS weakens the immune system, leaving the body vulnerable to severe infections.",
+    "Tuberculosis infects the lungs, causing chronic coughing, fever, and weight loss.",
+    "Rheumatoid Arthritis is an autoimmune disorder causing joint pain and inflammation.",
+    "Malaria, transmitted through mosquito bites, causes fever, chills, and severe illness.",
+    "Cancer develops when abnormal cells grow uncontrollably and damage tissues and organs.",
+    Cancer is a disease caused by the uncontrolled growth of abnormal cells in the body.
+Cancer can develop in almost any part of the body, affecting organs, tissues, and blood.
+The causes of cancer include genetic mutations, environmental factors, and infections.
+Cancer types vary, with common ones being breast cancer, lung cancer, and skin cancer.
+Early detection of cancer through screenings like mammograms can save lives.
+Cancer symptoms may include lumps, unexplained weight loss, or changes in body functions.
+Immunotherapy helps the immune system recognize and attack cancer cells effectively.
+Cancer survival rates have improved significantly with advancements in medical science.
+Cancer prevention strategies emphasize regular exercise, healthy diets, and vaccinations.
+The treatment of cancer may cause side effects, such as fatigue and nausea.
+Palliative care supports cancer patients by managing pain and enhancing quality of life.
+Cancer research focuses on developing personalized approaches to fight various cancers.
+Support groups for cancer patients help address emotional and psychological challenges.
+Cancer awareness campaigns promote education about prevention and early detection.
+Advances in cancer technology, like AI, are revolutionizing how cancer is diagnosed and treated.
+    "Parkinson's Disease is a neurodegenerative disorder affecting movement and coordination.",
+    "Epilepsy causes recurrent seizures due to abnormal brain activity.",
+    "Chronic Kidney Disease leads to a gradual loss of kidney function over time.",
+    "Psoriasis is an autoimmune skin condition causing itchy, scaly patches.",
+    "Crohn's Disease causes inflammation of the digestive tract, leading to pain and malnutrition.",
+    "Hepatitis B is a viral infection that inflames the liver and may cause long-term damage.",
+    "Hepatitis C is a viral liver infection that may lead to cirrhosis or liver cancer.",
+    "Eczema (Atopic Dermatitis) causes itchy, inflamed skin, often triggered by irritants.",
+    "Sickle Cell Anemia is a genetic blood disorder causing misshapen red blood cells.",
+    "Cystic Fibrosis is a genetic condition affecting the lungs and digestive system.",
+    Cancer treatments include surgery, chemotherapy, radiation therapy, and immunotherapy.
+    Lifestyle changes can reduce cancer risks, such as avoiding smoking and eating healthily.
+    Some cancers, like hereditary cancer syndromes, run in families due to genetic predispositions.
+    Lupus (SLE) is an autoimmune disease that can damage multiple organs.",
+    "Multiple Sclerosis (MS) occurs when the immune system attacks the nervous system.",
+    "Dengue Fever is a mosquito-borne illness causing fever, rash, and severe pain.",
+    "Zika Virus is a mosquito-transmitted virus causing birth defects in pregnant women.",
+    "Polio is a viral infection that can cause paralysis and muscle weakness.",
+    "Measles is a highly contagious viral disease causing rash and fever.",
+    Advanced cancer can spread to other parts of the body, a process called metastasis.
+    "Chickenpox is a viral infection causing itchy blisters and rash.",
+    "Hemophilia is a genetic disorder where blood doesn’t clot properly.",
+    "Thalassemia is a blood disorder causing reduced hemoglobin production.",
+    "Osteoporosis weakens bones, increasing the risk of fractures.",
+    "Obesity involves excess body fat, increasing the risk of chronic diseases.",
+    "Coronary Artery Disease affects blood flow to the heart due to plaque buildup.",
+    "Stroke occurs when blood supply to the brain is interrupted.",
+    Research on cancer has led to innovative therapies like targeted cancer treatments.
+    "Anemia is a condition caused by low red blood cell count or hemoglobin levels.",
+    "Gout is a type of arthritis causing sudden joint pain due to uric acid buildup.",
+    "COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus.",
+    "Pneumonia causes lung inflammation due to infection with bacteria, viruses, or fungi.",
+    "Bronchitis involves inflammation of the bronchial tubes, causing cough and mucus buildup.",
+    "Depression is a mental health condition causing persistent sadness and loss of interest.",
+    "Anxiety Disorder involves excessive worry and fear.",
+    "Schizophrenia is a mental disorder affecting thinking, emotions, and behavior.",
+    "Bipolar Disorder causes extreme mood swings between mania and depression.",
+    "Autism Spectrum Disorder (ASD) affects communication and social interaction.",
+    "Attention Deficit Hyperactivity Disorder (ADHD) impairs focus and self-control.",
+    "Migraine is a severe headache often accompanied by nausea and sensitivity to light.",
+    "Huntington's Disease is a genetic disorder causing progressive brain degeneration.",
+    "Lyme Disease is a tick-borne illness causing rash, fever, and joint pain.",
+    "Cholera is an infection causing severe diarrhea and dehydration.",
+    "Ebola Virus Disease causes severe fever, bleeding, and organ failure.",
+    "Diphtheria is a bacterial infection affecting the throat and airways.
+    Asthma is a chronic respiratory condition that causes inflammation in the airways.
+The symptoms of asthma include wheezing, shortness of breath, and chest tightness.
+Asthma can be triggered by allergens, pollution, exercise, or respiratory infections.
+Inhalers are the most common treatment method for managing asthma symptoms.
+Asthma attacks occur when the airways become severely constricted, making breathing difficult.
+Individuals with asthma often have heightened sensitivity to airborne irritants.
+Asthma can be classified as mild, moderate, or severe based on symptom frequency and intensity.
+Exercise-induced asthma is a type that is triggered by physical activity.
+Asthma affects people of all ages but often begins during childhood.
+Asthma management includes avoiding triggers and taking prescribed medications.
+People with asthma are advised to create an action plan to manage potential flare-ups.
+Asthma can be exacerbated by environmental factors, such as pollen or cold weather.
+Inhaled corticosteroids are commonly used to reduce inflammation in asthma patients.
+Asthma attacks can be life-threatening if not treated promptly and effectively.
+Regular check-ups are crucial for people with asthma to monitor lung function.
+Asthma research has led to new treatments, including biologic therapies for severe cases.
+Many athletes with asthma use inhalers to maintain their performance levels.
+Asthma education programs help patients understand and manage their condition better.
+The global prevalence of asthma is increasing, particularly in urban areas.
+Advances in asthma care include wearable devices that monitor respiratory health.
+Chickenpox is a contagious disease caused by the varicella-zoster virus.
+The hallmark symptom of chickenpox is an itchy rash with red spots and blisters.
+Chickenpox primarily affects children but can occur in adults as well.
+Vaccination is the most effective way to prevent chickenpox.
+Chickenpox spreads through respiratory droplets or direct contact with the rash.
+Common symptoms of chickenpox include fever, fatigue, and loss of appetite.
+Chickenpox complications, such as bacterial infections, are more common in adults.
+The incubation period for chickenpox is typically 10 to 21 days after exposure.
+Chickenpox lesions usually crust over within a week, reducing the risk of contagion.
+Antiviral medications may be prescribed for severe cases of chickenpox.
+People with chickenpox are advised to stay hydrated and avoid scratching the rash.
+Chickenpox immunity is usually lifelong after recovering from the infection.
+Pregnant women with chickenpox face a higher risk of complications for both mother and baby.
+The chickenpox vaccine is part of routine immunization schedules in many countries.
+Chickenpox can cause shingles later in life when the virus reactivates.
+Calamine lotion is often used to soothe the itching caused by chickenpox.
+Chickenpox outbreaks are less common in communities with high vaccination rates.
+Over-the-counter antihistamines can help reduce itching for chickenpox patients.
+Chickenpox scars can form if the blisters are scratched excessively during healing.
+Healthcare providers emphasize the importance of early vaccination against chickenpox.
+Alzheimer’s disease is a progressive neurological condition.
+It primarily affects memory, thinking, and behavior.
+It is the most common cause of dementia worldwide.
+The disease usually develops in people over 65 years of age.
+Early-onset Alzheimer’s can occur in younger individuals.
+The exact cause of Alzheimer’s is not fully understood.
+Genetics, age, and lifestyle factors play significant roles in its development.
+Amyloid plaques and tau tangles are hallmark features of Alzheimer’s.
+These abnormalities damage and kill brain cells.
+Initial symptoms often include forgetfulness and confusion.
+People with Alzheimer’s may struggle with daily tasks.
+Language difficulties and disorientation are common as the disease progresses.
+Alzheimer’s can lead to mood swings, anxiety, and depression.
+In advanced stages, individuals may lose the ability to communicate.
+There is currently no cure for Alzheimer’s disease.
+Medications can help manage symptoms temporarily.
+Caregivers play a crucial role in supporting Alzheimer’s patients.
+Research is ongoing to find better treatments and preventive measures.
+A healthy lifestyle may lower the risk of developing Alzheimer’s.
+Raising awareness can help reduce stigma and improve care.
+ickle cell anemia is a genetic blood disorder that affects hemoglobin.
+Individuals with sickle cell anemia have red blood cells shaped like crescents.
+Sickle cell anemia causes red blood cells to block blood flow in small vessels.
+Pain episodes, known as crises, are common in sickle cell anemia.
+Sickle cell anemia is caused by a mutation in the HBB gene.
+Both parents must pass the defective gene to a child for sickle cell anemia to develop.
+Early symptoms of sickle cell anemia include fatigue and anemia.
+Sickle cell anemia often leads to swelling in the hands and feet.
+Frequent infections are a complication of sickle cell anemia due to spleen damage.
+Growth delays are commonly observed in children with sickle cell anemia.
+Sickle cell anemia significantly increases the risk of stroke.
+People with sickle cell anemia often experience chronic pain.
+Hydroxyurea is a medication used to treat sickle cell anemia.
+Blood transfusions are sometimes necessary for managing sickle cell anemia.
+A bone marrow transplant can potentially cure sickle cell anemia.
+Sickle cell anemia is most prevalent in people of African and Mediterranean descent.
+Vaccinations are crucial for people living with sickle cell anemia.
+Genetic counseling can help families affected by sickle cell anemia.
+Research on gene therapy offers hope for curing sickle cell anemia.
+Awareness of sickle cell anemia can improve diagnosis and treatment outcomes.
+ickle cell anemia is a genetic blood disorder that affects hemoglobin.
+Individuals with sickle cell anemia have red blood cells shaped like crescents.
+Sickle cell anemia causes red blood cells to block blood flow in small vessels.
+Pain episodes, known as crises, are common in sickle cell anemia.
+Sickle cell anemia is caused by a mutation in the HBB gene.
+Both parents must pass the defective gene to a child for sickle cell anemia to develop.
+Early symptoms of sickle cell anemia include fatigue and anemia.
+Sickle cell anemia often leads to swelling in the hands and feet.
+Frequent infections are a complication of sickle cell anemia due to spleen damage.
+Growth delays are commonly observed in children with sickle cell anemia.
+Sickle cell anemia significantly increases the risk of stroke.
+People with sickle cell anemia often experience chronic pain.
+Hydroxyurea is a medication used to treat sickle cell anemia.
+Blood transfusions are sometimes necessary for managing sickle cell anemia.
+A bone marrow transplant can potentially cure sickle cell anemia.
+Sickle cell anemia is most prevalent in people of African and Mediterranean descent.
+Vaccinations are crucial for people living with sickle cell anemia.
+Genetic counseling can help families affected by sickle cell anemia.
+Research on gene therapy offers hope for curing sickle cell anemia.
+Awareness of sickle cell anemia can improve diagnosis and treatment outcomes.
+Hepatitis is inflammation of the liver caused by viruses, toxins, or autoimmune conditions.
+Viral hepatitis is the most common type and includes hepatitis A, B, C, D, and E.
+Hepatitis A is usually transmitted through contaminated food or water.
+Hepatitis B spreads through blood, sexual contact, or from mother to child during childbirth.
+Hepatitis C is primarily spread through blood, often via shared needles.
+Hepatitis D occurs only in people already infected with hepatitis B.
+Hepatitis E is typically caused by consuming contaminated water.
+Chronic hepatitis B and C can lead to liver damage, cirrhosis, or liver cancer.
+Symptoms of hepatitis include fatigue, jaundice, abdominal pain, and dark urine.
+Hepatitis A and E usually resolve on their own without long-term liver damage.
+Vaccines are available to prevent hepatitis A and B infections.
+Hepatitis C currently has no vaccine, but antiviral medications can cure it.
+Early detection of hepatitis is essential to prevent complications.
+Hepatitis can be diagnosed through blood tests and liver function tests.
+Good hygiene practices can help prevent hepatitis A and E.
+Chronic hepatitis requires ongoing medical management and monitoring.
+Avoiding alcohol is critical for people with hepatitis to reduce liver damage.
+Hepatitis B can be managed with antiviral medications to suppress the virus.
+Education and awareness campaigns help reduce the global burden of hepatitis.
+Hepatitis affects millions worldwide and remains a significant public health concern.
+ika virus is a mosquito-borne virus primarily spread by Aedes mosquitoes.
+It was first identified in the Zika Forest of Uganda in 1947.
+Zika virus can also be transmitted through sexual contact, blood transfusions, and from mother to fetus.
+Most people infected with Zika virus experience mild or no symptoms.
+Common symptoms of Zika virus include fever, rash, joint pain, and red eyes.
+Zika virus infection during pregnancy can cause serious birth defects, such as microcephaly.
+There is no specific treatment for Zika virus; care is supportive.
+Preventing mosquito bites is the primary way to avoid Zika virus infection.
+Using insect repellent and mosquito nets can reduce the risk of Zika virus transmission.
+Zika virus outbreaks have occurred in Africa, Asia, the Americas, and the Pacific.
+Infected mosquitoes usually breed in standing water near human dwellings.
+Travelers to Zika-endemic areas are advised to take precautions against mosquito bites.
+Zika virus can cause Guillain-Barré syndrome, a rare neurological condition.
+Pregnant women are advised to avoid travel to areas with active Zika virus outbreaks.
+Testing for Zika virus involves blood or urine samples.
+Efforts to develop a vaccine for Zika virus are ongoing.
+Community programs to eliminate mosquito breeding grounds can help control Zika virus.
+Zika virus was declared a public health emergency by the World Health Organization in 2016.
+Education and awareness campaigns are crucial in preventing Zika virus transmission.
+Collaboration between countries is essential to combat the global spread of Zika virus.
